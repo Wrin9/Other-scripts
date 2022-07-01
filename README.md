@@ -6,4 +6,4 @@
 
 
 
-[Wsocks5.py]:白嫖socks代理(https://github.com/Wrin9/Other-scripts/blob/main/Wsocks5.py)
+[1]Wsocks5.py:白嫖socks代理(https://github.com/Wrin9/Other-scripts/blob/main/Wsocks5.py)
